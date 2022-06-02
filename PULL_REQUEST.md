@@ -1,21 +1,20 @@
-# Description
+# Descrição
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+Inclua um resumo da alteração e qual problema foi corrigido. Inclua também motivação e contexto relevantes. Liste todas as dependências necessárias para essa alteração.
 
-Fixes # (issue)
+Correções # (problema)
 
-# How Has This Been Tested?
+# Como isso foi testado?
 
-Please describe the tests that you ran to verify your changes. Please also note any relevant details for your test configuration.
+Descreva os testes que você executou para verificar suas alterações. Observe também quaisquer detalhes relevantes para sua configuração de teste.
 
-- [ ] Test A
-- [ ] Test B
+- [ ] Teste A
+- [ ] Teste B
 
 # Checklist:
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] Any dependent changes have been merged and published in downstream modules
+- [ ] Meu código segue as diretrizes de estilo deste projeto
+- [ ] Realizei uma auto-revisão do meu próprio código
+- [ ] Eu comentei meu código, particularmente em áreas difíceis de entender
+- [ ] Fiz as alterações correspondentes na documentação
+- [ ] XXX
